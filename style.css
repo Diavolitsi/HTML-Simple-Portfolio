@@ -1,0 +1,23 @@
+* {
+  color: white;
+  text-decoration: none;
+  --bg-color: #451952;
+  --main-color: #1c82ad;
+  --secondary-color: #662549;
+  --third-color: #ae445a;
+  background-color: #1c82ad;
+}
+#img-contact-me {
+  border: #ae445a solid 3px;
+  border-radius: 50%;
+}
+i {
+  font-size: 40px;
+}
+button {
+  background-color: #ae445a;
+  border-radius: 10px;
+}
+.a-button {
+  background-color: #ae445a;
+}
